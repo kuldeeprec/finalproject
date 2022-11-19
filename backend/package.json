@@ -1,0 +1,11 @@
+{
+  "name": "maketeameasy",
+  "version": "1.0.0",
+  "description": "\"maketeameasy created by kuldeep amit gokul and somnath yadav \"",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "somnath yadav gokul yadav amit yadav kuldeep yadav",
+  "license": "ISC"
+}
